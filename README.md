@@ -18,7 +18,7 @@ class Kamaraj:
     role        = "Gen AI Developer Intern"
     company     = "CubeAI Solutions Tech Pvt. Ltd."
     education   = "B.Tech AI & Data Science, Muthayammal College of Engineering"
-    year        = "Pre-Final Year (2023 - 2027)"
+    year        = "Final Year (2023 - 2027)"
     focus       = ["LLM Integration", "RAG Pipelines", "Agentic AI (MCP)"]
     currently   = "Building MCP servers + shipping full-stack AI apps"
     motto       = "I don't just study AI — I build with it."
